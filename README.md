@@ -11,8 +11,10 @@ Backend Functionality:
 5. Demo is in heroku so you can test over the web.
   Live Demo here -> http://bunker-app.herokuapp.com/ Note: Is a free heroku account so it will take a few seconds the           first time.
 
-
+Here is the reactjs using this backend via OAuth 2.0 and JWT:
+Front-end with Reactjs + Redux + Okta + Primereact + Heroku + Backend calls with OAuth 2.0 standard
+https://github.com/IsmaelTerreno/reactjs-redux-primereact-okta-front-end
 
 This is a demo video to see how it works with UI: https://drive.google.com/file/d/1ZpjVurVYCDz6JhIkFqkaH7Rzj52VBouh/view
-
+![Demo App](https://drive.google.com/file/d/1ZpjVurVYCDz6JhIkFqkaH7Rzj52VBouh/view)
 To have more info about the OAuth 2.0 with Okta here is a general overview: https://developer.okta.com/use_cases/api_access_management/
