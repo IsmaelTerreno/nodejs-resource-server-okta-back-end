@@ -1,0 +1,36 @@
+{
+  "name": "node-js-okta-resource-server",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Okta Api as resource server.",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "@okta/jwt-verifier": "0.0.11",
+    "@okta/oidc-middleware": "0.0.15",
+    "@okta/okta-sdk-nodejs": "^1.1.0",
+    "express-session": "^1.15.6",
+    "cors": "^2.8.4",
+    "body-parser": "^1.18.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
